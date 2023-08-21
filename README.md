@@ -6,7 +6,7 @@ A fully OOP, Model-View-Controller (MVC) architecture implementation of the clas
 Something to play with and have fun with, something to learn with, something to share, something to enhance and extend for fun, because we can, because VBA is fully capable of doing this, and because VBA devs can do open-source on GitHub, too!
 
 For Rubberduck contributors that know C# but don't do any VBA, this makes a decent-sized project to integration-test Rubberduck with. For VBA programmers, it makes a project to study and play with, to see how VBA can be used to write object-oriented code, and how MVC architecture can be leveraged to implement complex but very organized, extensible applications.
-
+ 
 ## Do I need [Rubberduck](https://github.com/rubberduck-vba/Rubberduck) to use this code?
 
 You don't. But you're definitely going to have a much better time with Rubberduck (although.. that's true whether it's *this project* or any other!), be it only to enjoy navigating all these classes in a treeview with a customized folder hierarchy. You will not be able to run the unit tests without Rubberduck (`Assert` calls will fail to resolve), but you can absolutely run and explore this code without the most powerful open-source VBIDE add-in out there. Just know.. you're missing out :)
